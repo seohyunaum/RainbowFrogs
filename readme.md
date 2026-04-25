@@ -13,3 +13,8 @@ flutter run
 ```
 
 Note that you need a device connected so this can build on.
+
+If things don't work you can try 
+```
+flutter doctor
+```
